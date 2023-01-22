@@ -26,3 +26,23 @@ Creating a shopping cart using TypeScript &amp; React. Also using routings, and 
 
 ![Alt text](https://github.com/MafiaDon2011/react_typescript-shopping-cart/blob/main/screenshots/shopping-cart-side-section-added-more.jpg "This screenshot shows the shopping cart with five item in the basket.")
 <br>This screenshot shows the shopping cart with five item in the basket. It also displays the total amount of the products listed and how many items they have selected.
+
+### Home page (Shopping cart icon follows with you.)
+
+![Alt text](https://github.com/MafiaDon2011/react_typescript-shopping-cart/blob/main/screenshots/home-page-shopping-basket.jpg "This screenshot shows the shopping cart basket follow with you even when you go to another page.")
+<br>This example shows the shopping cart basket icon displayed on the home page.
+
+### About page (Shopping cart icon follows with you.)
+
+![Alt text](https://github.com/MafiaDon2011/react_typescript-shopping-cart/blob/main/screenshots/about-page-shopping-basket.jpg "This screenshot shows the shopping cart basket follow with you even when you go to another page.")
+<br>This example shows the shopping cart basket icon displayed on the about page.
+
+### Home page section
+
+![Alt text](https://github.com/MafiaDon2011/react_typescript-shopping-cart/blob/main/screenshots/shopping-cart-side-section-home-page.jpg "This screenshot shows the side shopping cart basket section displaying the home page")
+<br>This example shows the side section displayed on the home page. It lists all the products and the total price that have been selected. 
+
+### About page section
+
+![Alt text](https://github.com/MafiaDon2011/react_typescript-shopping-cart/blob/main/screenshots/shopping-cart-side-section-about-page.jpg "This screenshot shows the side shopping cart basket section displaying the about page")
+<br>This example shows the side section displayed on the about page. It lists all the products and the total price that have been selected.
